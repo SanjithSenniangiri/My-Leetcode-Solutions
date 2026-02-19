@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0856-score-of-parentheses](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
@@ -45,5 +46,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->

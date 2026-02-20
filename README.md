@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0155-min-stack) |
 ## Array
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
@@ -53,9 +55,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [2487-remove-nodes-from-linked-list](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

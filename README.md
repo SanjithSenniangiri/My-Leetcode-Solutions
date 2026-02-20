@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0856-score-of-parentheses](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1544-make-the-string-great) |
 | [2487-remove-nodes-from-linked-list](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0856-score-of-parentheses](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1544-make-the-string-great) |
 ## Linked List
 |  |
 | ------- |

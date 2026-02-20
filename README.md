@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0844-backspace-string-compare](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1544-make-the-string-great) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1544-make-the-string-great) |
@@ -67,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0146-lru-cache) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->

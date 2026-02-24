@@ -24,13 +24,11 @@ class Solution {
     {
         if(root==null)
         {
-            return count;
+            return count-1;
         }
         
         count= Math.max(height(root.left, count+1), height(root.right, count+1));
         
         return count;
-
-        
     }
 }

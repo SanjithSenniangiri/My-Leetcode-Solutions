@@ -20,15 +20,15 @@ class Solution {
             TreeNode n = new TreeNode(val);
             return n;
         }
-        TreeNode r = root;
-        if(r.val>val)
+        // TreeNode r = root;
+        if(root.val>val)
         {
-            r.left = insertIntoBST(r.left, val);
+            root.left = insertIntoBST(root.left, val);
         }
         else{
-            r.right = insertIntoBST(r.right, val);
+            root.right = insertIntoBST(root.right, val);
         }
 
-        return r;
+        return root;
     }
 }

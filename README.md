@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0112-path-sum) |

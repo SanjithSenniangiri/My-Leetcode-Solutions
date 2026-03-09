@@ -14,30 +14,54 @@
  * }
  */
 class Solution {
-    int sum = 0;
-    List<Integer> ls = new ArrayList<>();
     public int sumNumbers(TreeNode root) {
-        sumFind(root, "");
-        for(int i = 0; i<ls.size(); i++)
-        {
-            sum+= ls.get(i);
-        }
-        return sum;
+        return sumFind(root, 0);
     }
 
-    public void sumFind(TreeNode root, String s)
-    {
-         if (root == null) {
-            return;
-        }
-        if(root.left == null && root.right==null)
-        {
-            s+=root.val;
-            ls.add(Integer.valueOf(s));
-            return;
+    public int sumFind(TreeNode root, int curr) {
+        if (root == null) return 0;
+
+        curr = curr * 10 + root.val;
+
+        if (root.left == null && root.right == null) {
+            return curr;
         }
 
-        sumFind(root.left, s+root.val);
-        sumFind(root.right, s+root.val);
+        return sumFind(root.left, curr) + sumFind(root.right, curr);
     }
+
 }
+
+
+
+
+
+
+
+// Using list of strings:
+    // int sum = 0;
+    // List<Integer> ls = new ArrayList<>();
+    // public int sumNumbers(TreeNode root) {
+    //     sumFind(root, "");
+    //     for(int i = 0; i<ls.size(); i++)
+    //     {
+    //         sum+= ls.get(i);
+    //     }
+    //     return sum;
+    // }
+
+    // public void sumFind(TreeNode root, String s)
+    // {
+    //      if (root == null) {
+    //         return;
+    //     }
+    //     if(root.left == null && root.right==null)
+    //     {
+    //         s+=root.val;
+    //         ls.add(Integer.valueOf(s));
+    //         return;
+    //     }
+
+    //     sumFind(root.left, s+root.val);
+    //     sumFind(root.right, s+root.val);
+    // }

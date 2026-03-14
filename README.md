@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1980-find-unique-binary-string](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 ## Monotonic Stack
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -236,12 +238,30 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->

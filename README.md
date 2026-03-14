@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1980-find-unique-binary-string](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 ## Monotonic Stack
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |

@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0658-find-k-closest-elements](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0912-sort-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0658-find-k-closest-elements](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 ## Tree
 |  |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
@@ -241,12 +245,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1046-last-stone-weight) |

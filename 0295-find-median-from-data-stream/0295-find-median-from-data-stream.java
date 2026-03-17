@@ -20,9 +20,7 @@ class MedianFinder {
         {
             min.add(num);
         }
-
-        if(num<=max.peek())
-        {
+        else{
             max.add(num);
         }
 

@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1980-find-unique-binary-string](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 ## Tree
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0912-sort-an-array) |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0912-sort-an-array) |
@@ -318,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
+## Greedy
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 <!---LeetCode Topics End-->

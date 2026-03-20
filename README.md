@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0912-sort-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1046-last-stone-weight) |
+| [1748-sum-of-unique-elements](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1980-find-unique-binary-string](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 ## Monotonic Stack
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [1748-sum-of-unique-elements](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1980-find-unique-binary-string](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 ## String
 |  |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Math
 |  |
 | ------- |

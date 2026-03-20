@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1748-sum-of-unique-elements](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1980-find-unique-binary-string](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1748-sum-of-unique-elements](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1980-find-unique-binary-string](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0912-sort-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |

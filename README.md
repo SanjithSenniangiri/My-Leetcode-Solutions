@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/SanjithSenniangiri/My-Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |

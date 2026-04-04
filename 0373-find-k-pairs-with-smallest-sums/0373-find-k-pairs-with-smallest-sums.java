@@ -4,7 +4,7 @@ class Solution {
         if (nums1.length == 0 || nums2.length == 0 || k == 0) return out;
 
         PriorityQueue<List<Integer>> pq = new PriorityQueue<>((a, b) -> a.get(0) - b.get(0));
-
+        
         for (int i = 0; i < Math.min(nums1.length, k); i++) {
             List<Integer> ls = new ArrayList<>();
             ls.add(nums1[i] + nums2[0]);
